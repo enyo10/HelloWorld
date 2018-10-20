@@ -15,3 +15,13 @@ Nous allons ensuite envoyer notre repository sur GitHub et recupérer l'URL sous
 https://github.com/enyo10/HelloWorld.
 
 
+HelloWorld.--.idea
+          |
+          |--out
+          |--src.
+          |     |.main.java
+          |
+          |--.gitignore
+          |--HelloWorld.impl
+          |--README.txt
+          
